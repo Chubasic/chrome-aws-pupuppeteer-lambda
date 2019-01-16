@@ -1,5 +1,5 @@
 # chrome-aws-pupuppeteer-lambda
 
-Simple example
+Simple example.
 Documentation API:
-https://github.com/GoogleChrome/puppeteer/blob/v1.10.0/docs/api.md
+1. https://github.com/GoogleChrome/puppeteer/blob/v1.10.0/docs/api.md
